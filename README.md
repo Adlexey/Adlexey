@@ -11,9 +11,6 @@
 
 ## 🚀 Профессиональные навыки
 `Penetration Testing` `Vulnerability Assessment` `Digital Forensics` `Network Security` `Web Application Security` `Incident Response` `Malware Analysis` `Python` `Bash` `JavaScript` `SQL` `PowerShell` `Wireshark` `Metasploit` `Burp Suite` `Nmap` `John the Ripper` `Aircrack-ng` `Kali Linux` `VirtualBox`
-<img src="https://img.icons8.com/color/48/000000/security-checked.png" alt="Security" width="30"/>
-<img src="https://img.icons8.com/color/48/000000/hacker.png" alt="Hacking" width="30"/>
-<img src="https://img.icons8.com/color/48/000000/fingerprint.png" alt="Forensics" width="30"/>
 
 ## 📖 Образование
 | Образовательное учреждение | Специальность | Степень | Дата обучения |
