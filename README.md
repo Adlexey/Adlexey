@@ -40,5 +40,5 @@
 
 ## 📞 Как связаться со мной
 [<img src="https://img.icons8.com/color/48/000000/telegram-app.png" width="30" alt="Telegram">](https://t.me/username)
-[<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-hackthebox-a-hacking-competition-platform-logo-shadow-tal-revivo.png](https://app.hackthebox.com/images/logos/htb_ic2.svg)" width="30" alt="HackTheBox">](https://app.hackthebox.com/profile/123456)
+[<img src="[https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-hackthebox-a-hacking-competition-platform-logo-shadow-tal-revivo.png](https://app.hackthebox.com/images/logos/htb_ic2.svg)" width="30" alt="HackTheBox">](https://app.hackthebox.com/profile/123456)
 [<img src="https://img.icons8.com/color/48/000000/gmail.png" width="30" alt="Email">](mailto:contact@domain.com)
