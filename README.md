@@ -10,10 +10,8 @@
 <img src="./assets/Снимок%20экрана%202025-11-13%20145146.png" width="29%" alt="My Photo">&nbsp;&nbsp;&nbsp;<img src="./assets/Снимок%20экрана%202025-11-13%20144424.png" width="20%" alt="My Photo">&nbsp;&nbsp;&nbsp;<img src="./assets/Снимок%20экрана%202025-11-13%20144842.png" width="19%" alt="My Photo">
 
 ## 🚀 Профессиональные навыки
-![Penetration Testing](https://img.shields.io/badge/Penetration_Testing-Expert-red)
-![Digital Forensics](https://img.shields.io/badge/Digital_Forensics-Advanced-orange)
-![Cryptography](https://img.shields.io/badge/Cryptography-Intermediate-yellow)
-![Network Security](https://img.shields.io/badge/Network_Security-Expert-red)
+`Penetration Testing` `Vulnerability Assessment` `Digital Forensics` `Cryptography`  
+`Network Security` `Web Application Security` `Incident Response` `Malware Analysis`
 
 ## 📖 Образование
 | Образовательное учреждение | Специальность | Степень | Дата обучения |
