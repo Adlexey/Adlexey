@@ -39,6 +39,6 @@
    - Проведение регулярных аудитов безопасности для тестирования разработанных правил
 
 ## 📞 Как связаться со мной
-[![Telegram](https://img.shields.io/badge/Telegram-@username-blue?logo=telegram)](https://t.me/username)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-Profile-orange?logo=hackthebox)](https://app.hackthebox.com/profile/123456)
-[![Email](https://img.shields.io/badge/Email-contact@domain.com-red?logo=gmail)](mailto:contact@domain.com)
+[![Telegram](https://img.shields.io/badge/📱_Telegram-@username-26A5E4?logo=telegram)](https://t.me/username)
+[![HackTheBox](https://img.shields.io/badge/🔴_HackTheBox-Profile-9FEF00?logo=hackthebox)](https://app.hackthebox.com/profile/123456)
+[![Email](https://img.shields.io/badge/📧_Email-contact@domain.com-D14836?logo=gmail)](mailto:contact@domain.com)
