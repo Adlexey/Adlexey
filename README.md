@@ -41,7 +41,7 @@ In general worked with monolitic, microservice and serverless arthitectures. Big
 *   [Skyscanner Flight API client](https://github.com/romankh3/skyscanner-flight-api-client) - Published on Maven Central Java Client for a Skyscanner Flight Search API hosted in Rapid API
 *   [Flights-monitoring](https://github.com/romankh3/flights-monitoring) - Application for monitoring flight cost based on Skyscanner API
 
-## 👔 Опыт работы
+## 💼 Опыт работы
 ### Аналитик событий информационной безопосности (1,5 года)
       - Обнаружение и реагирование на инциденты информационной безопасности
       - Расследование инцидентов
