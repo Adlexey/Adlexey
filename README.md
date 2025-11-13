@@ -28,7 +28,7 @@ In general worked with monolitic, microservice and serverless arthitectures. Big
 *   Write posts about software development.
 *   Currently working in [Epam Systems](https://www.linkedin.com/company/epam-systems/)
 
-## 🛠 Technical Stack
+## 🛠 Образование
 *   Java/Kotlin/Groovy/COBOL languages
 *   MySQL, PostgreSQL, MongoDB, Aurora, DynamoDB, Flyway, Liquibase
 *   Spring Framework, Spring Boot, Spring Test, Spring Data Jpa, Spring Jdbc template, Spring Cloud Contract and so on...
