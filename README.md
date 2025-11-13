@@ -11,9 +11,9 @@
 
 ## 🚀 Профессиональные навыки
 ##### 🛡️ Security: `Digital Forensics` `Incident Response` `Penetration Testing` `Vulnerability Assessment` `Network Security` `Web Application Security`
-##### 🔬 Revers Ingeniring: `Malware Analysis` `Revers Ingeniring` 
-##### 💻 Programming: `Python` `Bash` `JavaScript` `SQL` `PowerShell` 
-##### 🔧 Tools `Wireshark` `Metasploit` `Burp Suite` `Nmap` `John the Ripper` `Aircrack-ng` `Kali Linux` `VirtualBox`
+ 🔬 Revers Ingeniring: `Malware Analysis` `Revers Ingeniring` 
+ 💻 Programming: `Python` `Bash` `JavaScript` `SQL` `PowerShell` 
+ 🔧 Tools `Wireshark` `Metasploit` `Burp Suite` `Nmap` `John the Ripper` `Aircrack-ng` `Kali Linux` `VirtualBox`
 
 ## 📖 Образование
 | Образовательное учреждение | Специальность | Степень | Дата обучения |
