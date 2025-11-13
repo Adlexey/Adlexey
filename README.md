@@ -42,7 +42,7 @@ In general worked with monolitic, microservice and serverless arthitectures. Big
 *   [Flights-monitoring](https://github.com/romankh3/flights-monitoring) - Application for monitoring flight cost based on Skyscanner API
 
 ## 💼 Опыт работы
-### Аналитик событий информационной безопосности (![Work Experience](https://img.shields.io/badge/Опыт_работы-с_20.08.2024-blue?style=for-the-badge))
+### Аналитик событий информационной безопосности (![Work Experience](https://img.shields.io/badge/Опыт_работы-1_месяц-green?style=for-the-badge))
       - Обнаружение и реагирование на инциденты информационной безопасности
       - Расследование инцидентов
       - Разработка правил противодействия атакам на информационные системы
