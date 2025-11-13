@@ -29,14 +29,13 @@ In general worked with monolitic, microservice and serverless arthitectures. Big
 *   Currently working in [Epam Systems](https://www.linkedin.com/company/epam-systems/)
 
 ## 🛠 Образование
-*   Java/Kotlin/Groovy/COBOL languages
-*   MySQL, PostgreSQL, MongoDB, Aurora, DynamoDB, Flyway, Liquibase
-*   Spring Framework, Spring Boot, Spring Test, Spring Data Jpa, Spring Jdbc template, Spring Cloud Contract and so on...
-*   Camunda, Camunda Cockpit, Camunda Modeleter
-*   GitHub/GitLab/Gerrit/Bitbucket
+| Образовательное учреждение | Специальность | Степень | Дата обучения |
+|------|--------|--------|--------|
+| Пермский национальный исследовательский политехнический университет| Оборудования нефтегазовой переработки | бакалавриат | 2019 - 2023
+| Skillfactory | «Белый» хакер | Профессиональная переквалификация | 2024 - 2025 |
 
 ## 📚 Курсы
-| Организатор | Курс | Дата проведения | Статус |
+| Организатор | Курс | Дата обучения | Статус |
 |------|--------|--------|--------|
 | Skillfactory | «Белый» хакер | 24.05.2024 - 24.05.2025 | ✅ Завершен |
 | Cyber-ed | Реагирование на инциденты и компьютерная криминалистика в ОС Windows | 12.05.2025 - 12.08.2025 | ✅ Завершен |
