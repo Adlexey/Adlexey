@@ -7,7 +7,7 @@
 - 🔍 Интересуюсь всеми аспектами кибербезопасности
 
 ## 🏆 Достяженния
-<img src="./assets/Снимок%20экрана%202025-11-13%20144424.png" width="20%" alt="My Photo">&nbsp;&nbsp;&nbsp;<img src="./assets/Снимок%20экрана%202025-11-13%20144842.png" width="20%" alt="My Photo">
+<img src="./assets/Снимок%20экрана%202025-11-13%20144424.png" width="20%" alt="My Photo">&nbsp;&nbsp;&nbsp;<img src="./assets/Снимок%20экрана%202025-11-13%20144842.png" width="18%" alt="My Photo">
 
 ## 🚀 Профессиональные навыки
 
