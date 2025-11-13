@@ -16,7 +16,7 @@
 🔹знание техник пост-эксплуатации, pivoting и закрепления на windows и *nix-системах - <b>ДА</b><br>
 🔹понимание принципов Red Team - <b>ДА</b><br>
 
-## 🏆 Достяженния
+## 🏆 Достиженния
 <img src="./assets/Снимок%20экрана%202025-11-13%20145146.png" width="29%" alt="My Photo">&nbsp;&nbsp;&nbsp;<img src="./assets/Снимок%20экрана%202025-11-13%20144424.png" width="20%" alt="My Photo">&nbsp;&nbsp;&nbsp;<img src="./assets/Снимок%20экрана%202025-11-13%20144842.png" width="19%" alt="My Photo">
 
 ## 🚀 Профессиональные навыки
