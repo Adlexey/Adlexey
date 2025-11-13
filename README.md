@@ -10,7 +10,7 @@
 <img src="./assets/Снимок%20экрана%202025-11-13%20145146.png" width="29%" alt="My Photo">&nbsp;&nbsp;&nbsp;<img src="./assets/Снимок%20экрана%202025-11-13%20144424.png" width="20%" alt="My Photo">&nbsp;&nbsp;&nbsp;<img src="./assets/Снимок%20экрана%202025-11-13%20144842.png" width="19%" alt="My Photo">
 
 ## 🚀 Профессиональные навыки
-`Penetration Testing` `Vulnerability Assessment` `Digital Forensics` `Network Security` `Web Application Security` `Incident Response` `Malware Analysis` `Python` `Bash` `JavaScript` `SQL` `PowerShell` `Wireshark` `Metasploit` `Burp Suite` `Nmap` `John the Ripper` `Aircrack-ng` `Kali Linux` `VirtualBox`
+ `Digital Forensics` `Incident Response` `Penetration Testing` `Vulnerability Assessment` `Network Security` `Web Application Security` `Malware Analysis` `Revers Ingeniring` `Python` `Bash` `JavaScript` `SQL` `PowerShell` `Wireshark` `Metasploit` `Burp Suite` `Nmap` `John the Ripper` `Aircrack-ng` `Kali Linux` `VirtualBox`
 
 ## 📖 Образование
 | Образовательное учреждение | Специальность | Степень | Дата обучения |
