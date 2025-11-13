@@ -36,10 +36,14 @@ In general worked with monolitic, microservice and serverless arthitectures. Big
 *   GitHub/GitLab/Gerrit/Bitbucket
 
 ## 📚 Курсы
-*   [image-comparison](https://github.com/romankh3/image-comparison) - Published on Maven Central Java Library that compares 2 images with the same sizes and shows the differences visually by drawing rectangles. Some parts of the image can be excluded from the comparison.
-*   [JavaRush TelegramBot](https://github.com/javarushcommunity/javarush-telegrambot) - JavaRush Telegram bot from the community to the community
-*   [Skyscanner Flight API client](https://github.com/romankh3/skyscanner-flight-api-client) - Published on Maven Central Java Client for a Skyscanner Flight Search API hosted in Rapid API
-*   [Flights-monitoring](https://github.com/romankh3/flights-monitoring) - Application for monitoring flight cost based on Skyscanner API
+| Курс | Статус |
+|------|--------|
+| JavaScript Basics | ✅ Завершен |
+| React Fundamentals | ✅ Завершен |
+| Node.js Advanced | 🟡 В процессе |
+| TypeScript Mastery | ⏳ Планируется |
+| AWS Cloud Practitioner | ✅ Завершен |
+| Docker & Kubernetes | 🟡 В процессе |
 
 ## 💼 Опыт работы
 ### Аналитик событий информационной безопосности | `1 год 4 месяца`
