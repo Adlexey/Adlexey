@@ -39,6 +39,6 @@
    - Проведение регулярных аудитов безопасности для тестирования разработанных правил
 
 ## 📞 Как связаться со мной
-[<img src="https://img.icons8.com/color/48/000000/telegram-app.png" width="30" alt="Telegram">](https://t.me/adlexey) @Adlexey<br><br>
-[<img src="https://app.hackthebox.com/images/logos/htb_ic2.svg" width="30" alt="HackTheBox">](https://app.hackthebox.com/profile/123456) @Adlexey<br><br>
-[<img src="https://img.icons8.com/color/48/000000/gmail.png" width="30" alt="Email">](mailto:contact@domain.com) - adlexey@hakep.ru<br><br>
+[<img src="https://img.icons8.com/color/48/000000/telegram-app.png" width="30" alt="Telegram">](https://t.me/adlexey)
+[<img src="https://app.hackthebox.com/images/logos/htb_ic2.svg" width="30" alt="HackTheBox">](https://app.hackthebox.com/profile/391419)
+[<img src="https://img.icons8.com/color/48/000000/gmail.png" width="30" alt="Email">](mailto:adlexey@hakep.ru)<br><br><br>
