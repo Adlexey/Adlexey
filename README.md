@@ -39,9 +39,6 @@
    - Проведение регулярных аудитов безопасности для тестирования разработанных правил
 
 ## 📞 Как связаться со мной
-
-<div align="center" style="margin: 40px 0">
-   <a href="https://github.com/romankh3/github-profile-views-counter">
-       <img width="175px" src="https://komarev.com/ghpvc/?username=romankh3&color=DE002D">
-   </a>
-</div>
+[![Telegram](https://img.shields.io/badge/Telegram-@username-blue?logo=telegram)](https://t.me/username)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-Profile-orange?logo=hackthebox)](https://app.hackthebox.com/profile/123456)
+[![Email](https://img.shields.io/badge/Email-contact@domain.com-red?logo=gmail)](mailto:contact@domain.com)
