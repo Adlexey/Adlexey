@@ -7,9 +7,9 @@
 - 🔍 Интересуюсь всеми аспектами кибербезопасности
 
 ## 🏆 Достиженния
-<div align="center">
-    <h3><a href="https://github.com/Adlexey/MyProjects">Мои проекты</a> ← 👈 тык</h3>
-</div>
+
+<h3><a align="center" href="https://github.com/Adlexey/MyProjects">Мои проекты</a> ← 👈 тык</h3>
+
 <img src="./assets/Снимок%20экрана%202025-11-13%20145146.png" width="29%" alt="My Photo">&nbsp;&nbsp;&nbsp;<img src="./assets/Снимок%20экрана%202025-11-13%20144424.png" width="20%" alt="My Photo">&nbsp;&nbsp;&nbsp;<img src="./assets/Снимок%20экрана%202025-11-13%20144842.png" width="19%" alt="My Photo">
 
 ## 🚀 Профессиональные навыки
