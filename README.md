@@ -8,7 +8,7 @@
 
 ## 🏆 Достиженния
 ### [Мои проекты](https://github.com/Adlexey/MyProjects) ← 👈 тык
-<img src="./assets/Снимок%20экрана%202025-11-13%20145146.png" width="29%" alt="My Photo">&nbsp;&nbsp;&nbsp;<img src="./assets/Снимок%20экрана%202025-11-13%20144424.png" width="20%" alt="My Photo">&nbsp;&nbsp;&nbsp;<img src="./assets/Снимок%20экрана%202025-11-13%20144842.png" width="19%" alt="My Photo">
+<img src="./assets/Снимок%20экрана%202025-11-13%20145146.png" width="29%" alt="My Photo">&nbsp;&nbsp;&nbsp;<img src="./assets/Снимок%20экрана%202025-11-13%20144424.png" width="20%" alt="My Photo">&nbsp;&nbsp;&nbsp;<img src="./assets/Снимок%20экрана%202025-11-13%20144842.png" width="19%" alt="My Photo">&nbsp;&nbsp;&nbsp;<img src="./assets/dfgshetj.png" width="20%" alt="My Photo">
 
 ## 🚀 Профессиональные навыки
 🛡️ Security: `Digital Forensics` `Incident Response` `Penetration Testing` `OWASP` `Vulnerability Assessment` `Network Security` `Web Application Security`<br>
