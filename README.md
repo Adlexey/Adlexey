@@ -8,7 +8,7 @@
 
 ## 🏆 Достиженния
 ### [Мои проекты](https://github.com/Adlexey/MyProjects) ← 👈 тык
-<img src="./assets/145146.png" width="29%" alt="My Photo">&nbsp;&nbsp;&nbsp;<img src="./assets/144424.png" width="20%" alt="My Photo">&nbsp;&nbsp;&nbsp;<img src="./assets/144842.png" width="19%" alt="My Photo">&nbsp;&nbsp;&nbsp;<img src="./assets/dfgshetj.png" width="20%" alt="My Photo">&nbsp;&nbsp;&nbsp;<img src="./assets/ertghdfjjt.png" width="20%" alt="My Photo">
+<img src="./assets/145146.png" width="29%" alt="My Photo">&nbsp;&nbsp;&nbsp;<img src="./assets/144424.png" width="20%" alt="My Photo">&nbsp;&nbsp;&nbsp;<img src="./assets/144842.png" width="20%" alt="My Photo">&nbsp;&nbsp;&nbsp;<img src="./assets/dfgshetj.png" width="20%" alt="My Photo">&nbsp;&nbsp;&nbsp;<img src="./assets/ertghdfjjt.png" width="20%" alt="My Photo">
 
 ## 🚀 Профессиональные навыки
 🛡️ Security: `Digital Forensics` `Incident Response` `Penetration Testing` `OWASP` `Vulnerability Assessment` `Network Security` `Web Application Security`<br>
@@ -25,7 +25,7 @@
 ## 📚 Курсы
 | Организатор | Курс | Дата обучения | Статус | Сертификат |
 |------|--------|--------|--------|-----|
-| Skillfactory | Специалист по кибербезопасности «Белый» хакер | 24.05.2024 - 24.05.2025 | ✅ Завершен | <img src="./assets/ertghdfjjt.png" style="max-height: 10; width: auto;" alt="My Photo"> |
+| Skillfactory | Специалист по кибербезопасности «Белый» хакер | 24.05.2024 - 24.05.2025 | ✅ Завершен | <img src="./assets/ertghdfjjt.png" width="10%" alt="My Photo"> |
 | Cyber-ed | Реагирование на инциденты и компьютерная криминалистика в ОС Windows | 12.05.2025 - 12.08.2025 | ✅ Завершен | |
 | Codeby | Введение в Реверс инжиниринг | 16.05.2025 - 07.11.2025| ✅ Завершен | |
 | Codeby | Тестирование Веб-Приложений на Проникновение | 02.10.2025 | ✅ Завершен | |
