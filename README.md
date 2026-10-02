@@ -32,6 +32,7 @@
 | Codeby | Тестирование Веб-Приложений на Проникновение | 02.10.2025 | ✅ Завершен | <img src="./assets/dfsahdfhz.png" width="200" alt="My Photo"> |
 | Codeby | Реверсивный инжиниринг ПО под ОС Windows | 10.11.2025 | ✅ Завершен | <img src="./assets/dgsdfsj.png" width="200" alt="My Photo"> |
 | Codeby | Анализ защищенности инфраструктуры на основе технологий Active Directory | 21.08.2026 | ✅ Завершен | <img src="./assets/sdjdfxj.png" width="200" alt="My Photo"> |
+| OffSec | PEN-200: OSCP | - | 📋 Запланировано | - |
 <!--
 ## 💼 Опыт работы
 ### Аналитик событий информационной безопосности | `1 год 4 месяца`
